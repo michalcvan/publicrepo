@@ -1,3 +1,4 @@
 File with one line
 Added second line
 Added third line
+Added some strange line
